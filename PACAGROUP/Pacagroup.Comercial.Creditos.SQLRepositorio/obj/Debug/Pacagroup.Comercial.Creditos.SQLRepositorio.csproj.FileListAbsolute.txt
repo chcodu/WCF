@@ -1,0 +1,13 @@
+C:\Users\user\Documents\Codigo git\WCF\PACAGROUP\Pacagroup.Comercial.Creditos.SQLRepositorio\bin\Debug\Pacagroup.Comercial.Creditos.SQLRepositorio.dll
+C:\Users\user\Documents\Codigo git\WCF\PACAGROUP\Pacagroup.Comercial.Creditos.SQLRepositorio\bin\Debug\Pacagroup.Comercial.Creditos.SQLRepositorio.pdb
+C:\Users\user\Documents\Codigo git\WCF\PACAGROUP\Pacagroup.Comercial.Creditos.SQLRepositorio\bin\Debug\Dapper.dll
+C:\Users\user\Documents\Codigo git\WCF\PACAGROUP\Pacagroup.Comercial.Creditos.SQLRepositorio\bin\Debug\Pacagroup.Comercial.Creditos.ContratoRepositorio.dll
+C:\Users\user\Documents\Codigo git\WCF\PACAGROUP\Pacagroup.Comercial.Creditos.SQLRepositorio\bin\Debug\Pacagroup.Comercial.Creditos.Dominio.dll
+C:\Users\user\Documents\Codigo git\WCF\PACAGROUP\Pacagroup.Comercial.Creditos.SQLRepositorio\bin\Debug\Pacagroup.Comercial.Creditos.ContratoRepositorio.pdb
+C:\Users\user\Documents\Codigo git\WCF\PACAGROUP\Pacagroup.Comercial.Creditos.SQLRepositorio\bin\Debug\Pacagroup.Comercial.Creditos.Dominio.pdb
+C:\Users\user\Documents\Codigo git\WCF\PACAGROUP\Pacagroup.Comercial.Creditos.SQLRepositorio\bin\Debug\Dapper.xml
+C:\Users\user\Documents\Codigo git\WCF\PACAGROUP\Pacagroup.Comercial.Creditos.SQLRepositorio\obj\Debug\Pacagroup.Comercial.Creditos.SQLRepositorio.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Codigo git\WCF\PACAGROUP\Pacagroup.Comercial.Creditos.SQLRepositorio\obj\Debug\Pacagroup.Comercial.Creditos.SQLRepositorio.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Codigo git\WCF\PACAGROUP\Pacagroup.Comercial.Creditos.SQLRepositorio\obj\Debug\Pacagroup.Comercial.Creditos.SQLRepositorio.csproj.CopyComplete
+C:\Users\user\Documents\Codigo git\WCF\PACAGROUP\Pacagroup.Comercial.Creditos.SQLRepositorio\obj\Debug\Pacagroup.Comercial.Creditos.SQLRepositorio.dll
+C:\Users\user\Documents\Codigo git\WCF\PACAGROUP\Pacagroup.Comercial.Creditos.SQLRepositorio\obj\Debug\Pacagroup.Comercial.Creditos.SQLRepositorio.pdb
