@@ -3,4 +3,3 @@ C:\Users\user\Documents\Codigo git\WCF\PACAGROUP\Pacagroup.Comercial.Creditos.Do
 C:\Users\user\Documents\Codigo git\WCF\PACAGROUP\Pacagroup.Comercial.Creditos.Dominio\bin\Debug\Pacagroup.Comercial.Creditos.Dominio.pdb
 C:\Users\user\Documents\Codigo git\WCF\PACAGROUP\Pacagroup.Comercial.Creditos.Dominio\obj\Debug\Pacagroup.Comercial.Creditos.Dominio.dll
 C:\Users\user\Documents\Codigo git\WCF\PACAGROUP\Pacagroup.Comercial.Creditos.Dominio\obj\Debug\Pacagroup.Comercial.Creditos.Dominio.pdb
-C:\Users\user\Documents\Codigo git\WCF\PACAGROUP\Pacagroup.Comercial.Creditos.Dominio\obj\Debug\Pacagroup.Comercial.Creditos.Dominio.csproj.AssemblyReference.cache

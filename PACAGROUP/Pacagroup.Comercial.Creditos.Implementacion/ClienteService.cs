@@ -2,6 +2,7 @@
 using Pacagroup.Comercial.Creditos.Dominio;
 using System.Collections.Generic;
 using Pacagroup.Comercial.Creditos.Fachada;
+using System.ServiceModel;
 
 namespace Pacagroup.Comercial.Creditos.Implementacion
 {
@@ -10,9 +11,17 @@ namespace Pacagroup.Comercial.Creditos.Implementacion
     {
         public Cliente GetCliente(string NumeroDocumento)
         {
-            using(ClienteFachada instancia = new ClienteFachada())
+            try
             {
-                return instancia.GetCliente(NumeroDocumento);
+                using (ClienteFachada instancia = new ClienteFachada())
+                {
+                    return instancia.GetCliente(NumeroDocumento);
+                }
+            }
+            catch (System.Exception ex)
+            {
+
+                throw new FaultException<Error>(new Error() { CodigoError = "10001", Description = "Excepcion administrada", Mensaje = ex.Message });
             }
         }
         public IEnumerable<Cliente> GetListClient()
